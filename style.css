@@ -313,7 +313,7 @@ nav .fas{
 
 @media (max-width: 600px){
     #header{
-        background-image: url(goku_hp.png);
+        background: black;
     }
     .header-teks{
         margin-top: 100%;
